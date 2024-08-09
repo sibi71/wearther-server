@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://www.pixel4k.com/wp-content/uploads/2019/03/silent-ocean-sunset-4k_1551643676.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+    color: white;
+    text-transform: uppercase;
+}
+.input-area{
+  margin-top: 10%;
+  display: block;
+}
+.input-box{
+    height: 40px;
+    border-radius: 10px;
+}
+.wearthe-data{
+    padding: 3rem;
+}
+.card-title{
+    font-size: 29px;
+    color: white;
+}
+.card-subtitle{
+    color: white;
+}
